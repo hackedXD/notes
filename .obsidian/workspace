@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer science 1/missing card.md",
-            "mode": "preview",
+            "file": "Links.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science 1/missing card.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer science 1/missing card.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science 1/missing card.md"
+                "file": "Links.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "1bb61177791e0f20",
   "lastOpenFiles": [
-    "Homework.md",
     "computer science 1/missing card.md",
+    "Homework.md",
     "computer science 1/introduction-loom.mov",
     "qualifactions.md",
     "Links.md",

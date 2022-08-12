@@ -10,6 +10,7 @@
 ### Syllabus
 - [Biology Syllabus](https://docs.google.com/document/d/1DHAN0wVcrskpb_NG8hsROhwvGWUS_H1HrczOnPuY_iE/edit?usp=sharing)
 - [Math Syllabus](https://sas.schoology.com/course/6032408599/materials/gp/6063870241)
+- [Spanish Syllabus](https://docs.google.com/document/d/1aKuOOANZjAro_lCHfOfX57Qhe8sK01dXCcEB89or6uY/edit)
 - 
 
 ### Files
