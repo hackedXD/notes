@@ -1,0 +1,58 @@
+[build]
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+publish = "public"
+
+[build.environment]
+LANDING_BUTTON = "Click to steal some👆"
+LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_PAGE = "home"
+LANDING_TITLE = "I love obsidian-zola! 💖"
+PYTHON_VERSION = "3.8"
+REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE_TAB = ""
+SITE_URL = ""
+TIMEZONE = "Asia/Hong_Kong"
+ZOLA_VERSION = "0.15.2"
+SORT_BY = "title"
+GANALYTICS = ""
+SLUGIFY = "y"
+HOME_GRAPH = "y"
+PAGE_GRAPH = "y"
+SIDEBAR_COLLAPSED = ""
+FOOTER = ""
+ROOT_SECTION_NAME = "main"
+GRAPH_OPTIONS = """
+        {
+        	nodes: {
+        		shape: "dot",
+        		color: isDark() ? "#8c8e91" : "#dee2e6",
+        		font: {
+        			face: "Inter",
+        			color: isDark() ? "#c9cdd1" : "#616469",
+        			strokeColor: isDark() ? "#c9cdd1" : "#616469",
+        		},
+        		scaling: {
+        			label: {
+        				enabled: true,
+        			},
+        		},
+        	},
+        	edges: {
+        		color: { inherit: "both" },
+        		width: 0.8,
+        		smooth: {
+        			type: "continuous",
+        		},
+        		hoverWidth: 4,
+        	},
+        	interaction: {
+        		hover: true,
+        	},
+        	height: "100%",
+        	width: "100%",
+        	physics: {
+        		solver: "repulsion",
+        	},
+        }
+        """
