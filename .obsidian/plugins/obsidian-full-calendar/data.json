@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#4c78cc",
+      "url": "webcal://sas.schoology.com/calendar/feed/ical/1660207598/3f87e58076cea7eeee0eabaeab10967a/ical.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}

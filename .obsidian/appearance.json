@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "translucency": true,
+  "theme": "system",
+  "baseFontSize": 15
+}
